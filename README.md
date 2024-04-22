@@ -32,6 +32,9 @@ The data is in a structured Excel Worksheet document (xls) format. It contains 1
 - Time: It contains the exact time the call was received.
 - Topic: It contains the reason the customer called.
 
-  
+### Dashboard Preview:
 
+  ![image](https://github.com/johnxiong123/Call-Center-Trends/assets/104403894/7b4dd9be-77ae-46d7-8610-02932c2b10f8)
+
+link to online Dashboard: https://app.powerbi.com/view?r=eyJrIjoiMjhjZGUwOGItMzA0MS00MTk3LWJiNzAtMGY3MDE4MzUzYWE1IiwidCI6IjlkZGFhY2ExLTM4OWYtNGNiMS1hMTEzLTA4MWJlNmNjMjVmYyIsImMiOjZ9
 
